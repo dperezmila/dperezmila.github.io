@@ -1,3 +1,6 @@
 remote_theme: riggraz/no-style-please
 title: Daniel Pérez-Milá Sánchez
 description: Personal Website
+
+theme_config:
+  show_description: true
