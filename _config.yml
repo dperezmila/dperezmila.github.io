@@ -1,6 +1,6 @@
 remote_theme: riggraz/no-style-please
 title: Daniel Pérez-Milá Sánchez
-description: Personal Website
+description: I'm a Computer Engineer specializing in AI, currently pursuing a Master of Information Technology at the University of Melbourne. With four years of experience at Accenture as a System Technician, I've developed a strong foundation in both practical and theoretical computing. My research interests lie in Deep Learning, particularly exploring optimization landscapes in neural networks, from convex optimization problems with guaranteed global minima to the complex non-convex surfaces that characterize modern deep architectures, where finding optimal solutions remains a fascinating challenge.
 
 theme_config:
   show_description: true
