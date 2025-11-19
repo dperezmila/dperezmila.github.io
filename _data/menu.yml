@@ -3,8 +3,8 @@ entries:
     entries:
       - title: "<a href='https://riggraz.dev'>[LINK]</a> Emotion Recognition from Speech using Traditional ML models"
       - title: "<a href='https://riggraz.dev'>[LINK]</a> NLP Semantic Analysis of Climate-Related Statements"
-      - title: "<a href='https://riggraz.dev'>[LINK]</a> Calorie & Portion Estimation from RGB-D Food Imagery"
-      - title: "<a href='https://riggraz.dev'>[LINK]</a> Short-Horizon MICU Discharge Prediction from Clinical Time Series"
+      - title: "<a href='https://riggraz.dev'>[LINK]</a> Calorie Estimation from RGB-D Food Imagery"
+      - title: "<a href='https://riggraz.dev'>[LINK]</a> 6-Hour Forecasting of MICU Discharge Readiness via Clinical Time Series"
       - title: "<a href='https://riggraz.dev'>[LINK]</a> Sim-to-Real Control of a Small-Scale Robotic Vehicle Using PID and RL"
 
   - title: All Posts
