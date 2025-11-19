@@ -1,7 +1,7 @@
 entries:
   - title: Projects
     entries:
-      - title: "[ML] Acoustic Emotion Recognition with Classical Learning Models"
+      - title: "Emotion Recognition from Speech using Traditional ML models" <a href='https://riggraz.dev'>[LINK]</a>
         url: https://github.com/riggraz/no-style-please
       - title: "[NLP] Semantic Analysis of Climate-Related Statements"
         url: https://github.com/riggraz/no-style-please
