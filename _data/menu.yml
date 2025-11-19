@@ -1,15 +1,15 @@
 entries:
   - title: Projects
     entries:
-      - title: [ML] Acoustic Emotion Recognition with Classical Learning Models
+      - title: \[ML\] Acoustic Emotion Recognition with Classical Learning Models
         url: https://github.com/riggraz/no-style-please
-      - title: [NLP] Semantic Analysis of Climate-Related Statements
+      - title: \[NLP\] Semantic Analysis of Climate-Related Statements
         url: https://github.com/riggraz/no-style-please
-      - title: [CV] Calorie & Portion Estimation from RGB-D Food Imagery
+      - title: \[CV\] Calorie & Portion Estimation from RGB-D Food Imagery
         url: https://github.com/riggraz/no-style-please
-      - title: [TS] Short-Horizon MICU Discharge Prediction from Clinical Time Series
+      - title: \[TS\] Short-Horizon MICU Discharge Prediction from Clinical Time Series
         url: https://github.com/riggraz/no-style-please
-      - title: [RL] Sim-to-Real Control of a Small-Scale Autonomous Robotic Vehicle
+      - title: \[RL\] Sim-to-Real Control of a Small-Scale Autonomous Robotic Vehicle
         url: https://github.com/riggraz/no-style-please
       - title: Tags: ML = Machine Learning, CV = Computer Vision, NLP = Natural Language Processing, TS = Time Series, RL = Reinforcement Learning
 
