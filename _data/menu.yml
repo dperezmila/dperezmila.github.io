@@ -1,5 +1,5 @@
 entries:
-  - title: Projects
+  - title: Projects:
     entries:
       - title: "[ML] Acoustic Emotion Recognition with Classical Learning Models"
         url: https://github.com/riggraz/no-style-please
@@ -13,21 +13,10 @@ entries:
         url: https://github.com/riggraz/no-style-please
       - title: "Tags: ML = Machine Learning, CV = Computer Vision, NLP = Natural Language Processing, TS = Time Series, RL = Reinforcement Learning"
 
-  - title: All Posts
+  - title: All Posts:
     post_list:
       limit: 5
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
-
-  - title: rss
-    url: feed.xml
-  
-  - title: another list
-    entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
 
